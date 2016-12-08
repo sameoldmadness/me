@@ -1,2 +1,2 @@
-Cooming soon
+Coming soon
 ============
