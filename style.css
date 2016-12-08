@@ -1,0 +1,10 @@
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100vmin;
+  margin-top: 50vh;
+  transform: translateY(-50%);
+}
